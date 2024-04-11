@@ -5,4 +5,4 @@
 
 - [ ] right down who rules
 ## to do : jp:
-- [ ] prepare hello word script
+- [x] prepare hello word script
